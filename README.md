@@ -1,6 +1,5 @@
-# DORT
+<h1>DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking.</h1>
 
-## Introduction
 
 This is the offical implementation of paper [DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking](https://arxiv.org/abs/2303.16628).
 
@@ -12,6 +11,10 @@ In contrast to previous global Bird-Eye-View (BEV) methods, DORT extracts object
 <p align="center">
   <img src="figs/overview.png" height="200" />
 </p>
+
+
+## News
+- [2023-08] Our paper is accepted by CoRL 2023. &#x1F389;
 
 ## Main Results
 
@@ -27,9 +30,7 @@ We provide the main results on the nuScenes validation set with ResNet50 backbon
 
 
 ## Code Release
-The code is still going through large refactoring. 
-
-Please stay tuned for the clean release.
+The code is still going through large refactoring and is planned to be released in September.
 
 ## Citation
 
@@ -38,7 +39,7 @@ Please stay tuned for the clean release.
 @article{lian2023dort,
   title={DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking},
   author={Lian, Qing and Wang, Tai and Lin, Dahua and Pang, Jiangmiao},
-  journal={arXiv preprint},
+  booktitle={CoRL},
   year={2023}
 }
 ```
