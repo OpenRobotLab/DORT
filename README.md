@@ -35,8 +35,11 @@ We provide the main results on the nuScenes validation set with ResNet50 backbon
 3. python setup.py develop
 
 ## Dataset Preparation
-1. Following mmdet3d to prepare the nuscenes dataset.
-2. cd tools/ python create_bevdet4d_info.py # obtain the temporal information for multi-frame training.
+···
+# Following mmdet3d to prepare the nuScenes dataset.
+cd tools/
+python create_bevdet4d_info.py # obtain the temporal information for multi-frame training.
+···
 
 ## Training
 ```
