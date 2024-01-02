@@ -1,7 +1,7 @@
 <h1>DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking.</h1>
 
 
-This is the offical implementation of paper [DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking](https://arxiv.org/abs/2303.16628).
+This is the official implementation of the paper [DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking](https://arxiv.org/abs/2303.16628).
 
 ## Abstract
 
