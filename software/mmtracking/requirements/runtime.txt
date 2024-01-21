@@ -1,0 +1,12 @@
+attributee==0.1.5
+dotty_dict
+lap
+matplotlib
+mmcls>=0.16.0
+motmetrics
+packaging
+pandas<=1.3.5
+pycocotools<=2.0.2
+seaborn
+terminaltables
+tqdm
